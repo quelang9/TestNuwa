@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![nuwa](http://7fviov.com1.z0.glb.clouddn.com/nuwa.jpg)
 
 ## Nuwa
@@ -155,3 +156,7 @@ Inspired by QZone hotfix solution from this [article](http://bugly.qq.com/blog/?
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2015, jiajixin.cn
+=======
+# TestNuwa
+test the Nuwa project
+>>>>>>> b215cc7957dbc3b81b7c17bcc2ec7863d30d0bfe
